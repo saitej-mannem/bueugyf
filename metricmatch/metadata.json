@@ -1,0 +1,5 @@
+{
+  "name": "MetricMatch",
+  "description": "A comprehensive tool to predict college admissions based on JEE Advanced ranks, categories, and branches.",
+  "requestFramePermissions": []
+}
