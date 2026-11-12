@@ -210,7 +210,7 @@ export default function App() {
                 className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/5 border border-white/10 text-white/60 text-[10px] uppercase tracking-[0.2em] font-medium mb-12"
               >
                 <Trophy className="w-3 h-3" />
-                Trusted by 50,000+ Students
+                Find your next college
               </motion.div>
               <h2 className="text-6xl md:text-9xl font-light mb-10 tracking-tighter glow-text leading-[0.85]">
                 Find Your Dream <br />
